@@ -1,0 +1,36 @@
+#container{
+    width: 600px;
+    height: 600px;
+    margin: auto;
+}
+
+
+#dirtbox{
+    width: 600px;
+    height: 600px;
+    background-color: cyan;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    border-radius: 30px;
+    border: 10px solid darkcyan;
+}
+
+#mole{
+    width: 80px;
+    height: 80px;
+    border-radius: 50px;
+    margin: 0px;
+    background-image: url("");
+    background-position: center;
+    background-size: 80px;
+}
+
+.div{
+    margin: 50px;
+    width: 80px;
+    height: 80px;
+    border-radius: 50px;
+    background-color: rgb(89, 0, 255);
+    border: 10px solid rgb(0, 0, 0);
+}

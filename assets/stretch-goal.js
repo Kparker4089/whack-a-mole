@@ -1,3 +1,4 @@
+/*
 window.onload = function() {
   var dirt = document.querySelectorAll('.dirt');
   var sound = document.getElementById('sound');
@@ -156,3 +157,4 @@ window.onload = function() {
 
 
 }
+*/
