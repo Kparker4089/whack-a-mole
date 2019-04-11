@@ -8,12 +8,13 @@
 #dirtbox{
     width: 600px;
     height: 600px;
-    background-color: cyan;
+    background-color:lightblue;
     display: flex;
     flex-wrap: wrap;
     margin: auto;
     border-radius: 30px;
     border: 10px solid darkcyan;
+    margin-top: 1 00px;
 }
 
 #mole{
@@ -26,11 +27,11 @@
     background-size: 80px;
 }
 
-.div{
+.dirt{
     margin: 50px;
     width: 80px;
     height: 80px;
     border-radius: 50px;
-    background-color: rgb(89, 0, 255);
-    border: 10px solid rgb(0, 0, 0);
+    background-color: palevioletred;
+    border: 10px solid black;
 }
